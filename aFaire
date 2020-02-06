@@ -1,0 +1,15 @@
+To_do :
+
+remettre le O si caisse deplacée (tenter chaine de struct?)
+voir les lignes non continues
+potasser les lose condition (return (1))
+
+Done :
+reset en appuyant sur ' '
+check up and down, mauvais calcul de la taille de la ligne
+gerer les obstacles
+gerer le déplacement des caisses sur les points de collecte
+gerer la persistence des 'O' (calques?)
+Potasser la méthode 'calques'
+trouver un moyen de récupérer la longeur des les lignes irrégulières (get each line every time?)
+faire les conditions de victoire (return (0))
